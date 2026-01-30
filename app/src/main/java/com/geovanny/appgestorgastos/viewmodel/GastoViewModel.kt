@@ -1,11 +1,11 @@
-package com.example.appgestorgastos.viewmodel
+package com.geovanny.appgestorgastos.viewmodel
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.appgestorgastos.data.database.AppDatabase
-import com.example.appgestorgastos.data.model.Gasto
-import com.example.appgestorgastos.data.repository.GastoRepository
+import com.geovanny.appgestorgastos.data.database.AppDatabase
+import com.geovanny.appgestorgastos.data.model.Gasto
+import com.geovanny.appgestorgastos.data.repository.GastoRepository
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

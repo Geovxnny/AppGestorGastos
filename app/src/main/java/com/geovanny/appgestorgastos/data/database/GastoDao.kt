@@ -1,7 +1,7 @@
-package com.example.appgestorgastos.data.database
+package com.geovanny.appgestorgastos.data.database
 
 import androidx.room.*
-import com.example.appgestorgastos.data.model.Gasto
+import com.geovanny.appgestorgastos.data.model.Gasto
 import kotlinx.coroutines.flow.Flow
 
 @Dao

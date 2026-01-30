@@ -1,20 +1,19 @@
-package com.example.appgestorgastos.ui.screens
+package com.geovanny.appgestorgastos.ui.screens
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.*
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
-import com.example.appgestorgastos.data.model.Categorias
-import com.example.appgestorgastos.data.model.Gasto
-import com.example.appgestorgastos.viewmodel.GastoViewModel
+import com.geovanny.appgestorgastos.data.model.Categorias
+import com.geovanny.appgestorgastos.data.model.Gasto
+import com.geovanny.appgestorgastos.viewmodel.GastoViewModel
 import androidx.compose.material.icons.filled.AttachMoney
 import androidx.compose.material.icons.filled.Category
 import androidx.compose.material.icons.filled.Description

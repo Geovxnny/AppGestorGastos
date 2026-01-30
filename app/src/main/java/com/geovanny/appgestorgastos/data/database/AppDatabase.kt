@@ -1,10 +1,10 @@
-package com.example.appgestorgastos.data.database
+package com.geovanny.appgestorgastos.data.database
 
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import com.example.appgestorgastos.data.model.Gasto
+import com.geovanny.appgestorgastos.data.model.Gasto
 
 @Database(entities = [Gasto::class], version = 1, exportSchema = false)
 abstract class AppDatabase : RoomDatabase() {

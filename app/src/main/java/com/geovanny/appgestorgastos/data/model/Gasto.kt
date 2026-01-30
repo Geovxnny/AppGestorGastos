@@ -1,4 +1,4 @@
-package com.example.appgestorgastos.data.model
+package com.geovanny.appgestorgastos.data.model
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

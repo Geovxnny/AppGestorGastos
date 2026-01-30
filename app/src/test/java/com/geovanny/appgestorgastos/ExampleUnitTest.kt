@@ -1,4 +1,4 @@
-package com.example.appgestorgastos
+package com.geovanny.appgestorgastos
 
 import org.junit.Test
 

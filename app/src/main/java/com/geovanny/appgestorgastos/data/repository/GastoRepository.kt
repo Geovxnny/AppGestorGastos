@@ -1,7 +1,7 @@
-package com.example.appgestorgastos.data.repository
+package com.geovanny.appgestorgastos.data.repository
 
-import com.example.appgestorgastos.data.database.GastoDao
-import com.example.appgestorgastos.data.model.Gasto
+import com.geovanny.appgestorgastos.data.database.GastoDao
+import com.geovanny.appgestorgastos.data.model.Gasto
 import kotlinx.coroutines.flow.Flow
 
 class GastoRepository(private val gastoDao: GastoDao) {

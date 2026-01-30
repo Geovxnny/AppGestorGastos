@@ -1,19 +1,18 @@
-package com.example.appgestorgastos.ui.screens
+package com.geovanny.appgestorgastos.ui.screens
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.*
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
-import com.example.appgestorgastos.data.model.Categorias
-import com.example.appgestorgastos.data.model.Gasto
-import com.example.appgestorgastos.viewmodel.GastoViewModel
+import com.geovanny.appgestorgastos.data.model.Categorias
+import com.geovanny.appgestorgastos.data.model.Gasto
+import com.geovanny.appgestorgastos.viewmodel.GastoViewModel
 import java.text.NumberFormat
 import java.text.SimpleDateFormat
 import java.util.*

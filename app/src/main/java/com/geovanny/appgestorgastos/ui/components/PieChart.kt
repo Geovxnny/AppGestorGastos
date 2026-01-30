@@ -1,4 +1,4 @@
-package com.example.appgestorgastos.ui.components
+package com.geovanny.appgestorgastos.ui.components
 
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.layout.Box

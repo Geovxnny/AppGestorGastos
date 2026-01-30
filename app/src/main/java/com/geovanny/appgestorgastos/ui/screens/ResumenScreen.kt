@@ -1,4 +1,4 @@
-package com.example.appgestorgastos.ui.screens
+package com.geovanny.appgestorgastos.ui.screens
 
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.layout.*
@@ -16,13 +16,11 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.StrokeCap
 import androidx.compose.ui.graphics.drawscope.Stroke
 import androidx.compose.ui.unit.dp
-import com.example.appgestorgastos.data.model.Categorias
-import com.example.appgestorgastos.viewmodel.GastoViewModel
+import com.geovanny.appgestorgastos.viewmodel.GastoViewModel
 import java.text.NumberFormat
 import java.util.*
 import kotlin.math.min
 import androidx.compose.material.icons.filled.AccountBalance
-import com.example.appgestorgastos.ui.components.PieChart
 
 @Composable
 fun ResumenScreen(viewModel: GastoViewModel) {

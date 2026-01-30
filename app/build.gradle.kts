@@ -8,13 +8,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.appgestorgastos"
-    compileSdk = 34
+    namespace = "com.geovanny.appgestorgastos"
+    compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.appgestorgastos"
+        applicationId = "com.geovanny.appgestorgastos"
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 

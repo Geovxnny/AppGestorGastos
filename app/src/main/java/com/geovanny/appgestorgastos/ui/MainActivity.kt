@@ -1,4 +1,4 @@
-package com.example.appgestorgastos
+package com.geovanny.appgestorgastos
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,14 +10,12 @@ import androidx.compose.material.icons.filled.*
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
-import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.appgestorgastos.ui.screens.*
-import com.example.appgestorgastos.ui.theme.GestorGastosTheme
-import com.example.appgestorgastos.viewmodel.GastoViewModel
-import com.example.appgestorgastos.ui.components.PieChart
+import com.geovanny.appgestorgastos.ui.screens.*
+import com.geovanny.appgestorgastos.ui.theme.GestorGastosTheme
+import com.geovanny.appgestorgastos.viewmodel.GastoViewModel
 
 
 class MainActivity : ComponentActivity() {

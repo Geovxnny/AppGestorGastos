@@ -1,4 +1,4 @@
-package com.example.appgestorgastos.ui.theme
+package com.geovanny.appgestorgastos.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.*
